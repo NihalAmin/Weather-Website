@@ -11,12 +11,6 @@ This is a simple weather website where users can enter a city's name and view it
 - Integration with OpenWeatherMap API for accurate weather data.
 
 
-
-## Feedback
-
-If you have any feedback, please reach out to us at fake@fake.com
-
-
 ## Technologies Used
 
  - HTML

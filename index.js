@@ -33,5 +33,5 @@ app.post("/weather", async (req, res) => {
 
 
 app.listen(port,()=>{
-    console.log(`post is running in https://localhost:${port}`);
+    console.log(`post is running in http://localhost:${port}`);
 });

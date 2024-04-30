@@ -24,7 +24,7 @@ This is a simple weather website where users can enter a city's name and view it
 ## Project Structure
  - `public/`: Contains static assets such as CSS files.
  - `views/`: Contains EJS templates for rendering HTML content.
- - `app.js`: Main Express.js application file
+ - `index.js`: Main Express.js application file
 
 
 
